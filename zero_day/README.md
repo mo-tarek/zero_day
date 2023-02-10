@@ -1,1 +1,0 @@
-<p>hello, this is my <em>vagrant</em> project</p>
